@@ -1,0 +1,14 @@
+﻿# 数据文件（体积大，不上传）
+data/raw/
+data/processed/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# VS Code 配置
+.vscode/
